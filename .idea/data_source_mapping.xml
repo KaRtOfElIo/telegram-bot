@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c8a6d70-3ffb-497e-a9c4-d45277910ee2/console.sql" value="3c8a6d70-3ffb-497e-a9c4-d45277910ee2" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c8a6d70-3ffb-497e-a9c4-d45277910ee2/console_1.sql" value="3c8a6d70-3ffb-497e-a9c4-d45277910ee2" />
+    <file url="file://$PROJECT_DIR$/ddl_NotificationTask.sql" value="3c8a6d70-3ffb-497e-a9c4-d45277910ee2" />
+  </component>
+</project>
